@@ -1,0 +1,25 @@
+{
+  "name": "eadolorem",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "resolutions": {},
+  "devDependencies": {
+    "@bluelovers/tsconfig": "*",
+    "@types/node": "*",
+    "typescript": "^4.0.0-dev.20200527"
+  },
+  "peerDependencies": {
+    "lerna": "^3"
+  },
+  "author": "MaddisonConsidine",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntoniaZboncak/eadolorem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AntoniaZboncak/eadolorem.git/issues"
+  },
+  "homepage": "https://github.com/AntoniaZboncak/eadolorem.git"
+}
